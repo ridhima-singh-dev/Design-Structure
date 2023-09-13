@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ridhi
+ *
+ */
+module AdapterDesignPattern {
+}
